@@ -163,34 +163,18 @@ Nach diesem kurzen Überblick schauen wir uns jetzt die vier Konzepte etwas deta
 ### Wo werden kontrollierte Vokabulare verwendet?
 
 - Bei der Vergabe von **Schlagwörtern in Metadatenfeldern**
-- Sie bilden die Basis für **Normdateien** (z. B. Gemeinsame Normdatei, GND), Thesauri, Klassifikationen oder Indexe
+- Sie bilden die Basis für **Normdateien** (z. B. Gemeinsame Normdatei, GND), Klassifikationen oder Indexe
 
 ### Wofür?
 
 - Sorgt für **Konsistenz** und hilft bei der **Verknüpfung von Informationen**
-- Verknüpfung von **Synonymen** (z. B. Auto / PKW), die zum gleichen Suchergebnis führen
-- Unterscheidung von **Homonymen** (verschiedene Bedeutungen eines Begriffs, z. B. *Bank* als Sitzgelegenheit oder Geldinstitut)
 - Im Kontext von **FAIR**: zentrale Rolle, da sie Auffindbarkeit, Interoperabilität und Nachnutzbarkeit von Forschungsdaten erhöhen
 
 ### Beispiele
 
-- Data Documentation Initiative (DDI) Controlled Vocabularies
-- Getty Arts & Architecture Thesaurus (AAT)
+- [Data Documentation Initiative (DDI) Controlled Vocabularies](https://rdf-vocabulary.ddialliance.org/)
+- [Liste von Sprachcodes](https://www.loc.gov/standards/iso639-2/ISO-639-2_utf-8.txt)
 
-### Aufgabe: Synonym oder Homonym?
-
-Entscheide für jedes Beispiel, welches Problem vorliegt. Ein kontrolliertes Vokabular löst beide.
-
-
-- [(Synonym) (Homonym)]
-- [    (X)           ( )     ]  Auto / PKW
-- [    ( )           (X)     ]  Bank
-- [    ( )           (X)     ]  Schloss
-- [    (X)           ( )     ]  Sicherungskopie / Backup
-
-
-*Synonyme:* verschiedene Wörter, gleiche Bedeutung.<br />
-*Homonym:* ein Wort, mehrere Bedeutungen.
 
 ### Mini-Check
 
